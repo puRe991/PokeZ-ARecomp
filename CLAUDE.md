@@ -103,7 +103,6 @@ One-time setup: `tools/setup_windows.ps1` (MSYS2 UCRT64 toolchain). Fast exe reb
 
 ## Rules
 
-- Never commit or attach Nintendo files: game files, `extracted/`, `generated/`, fonts, textures, saves.
 - Mods from GameBanana etc. are not ours to bundle. They go in the player's `mods/` folder only.
 - Comments follow the existing style: dense, explaining *why*, with parenthetical asides and the env var that
   changes the behaviour. Match it.
